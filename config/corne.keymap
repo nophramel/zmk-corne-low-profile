@@ -122,7 +122,7 @@
                                                     &mo 4                &lt 5 TAB          &kp SPACE    &kp BACKSPACE  &lt 4 RETURN        &mo 5
             >;
 
-            label = "QWERTZ";
+            label = "WIN";
         };
 
         win_raise_layer {
@@ -133,7 +133,7 @@
                                                                                       &trans                              &trans                                &kp BACKSPACE    &kp BACKSPACE        &trans                  &kp DE_N0
             >;
 
-            label = "NUMBERS";
+            label = "WINUM";
         };
 
         win_lower_layer {
@@ -144,7 +144,7 @@
                                      &trans      &trans    &trans        &kp PRINTSCREEN  &trans          &trans
             >;
 
-            label = "NAV-FUN";
+            label = "WINAV";
         };
 
         keeb_pref_layer {
@@ -161,7 +161,7 @@
                                                &trans        &trans        &trans          &trans  &trans  &trans
             >;
 
-            label = "OPTION";
+            label = "BLTOPT";
         };
     };
 };
