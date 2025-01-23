@@ -111,7 +111,7 @@
                                      &trans      &trans    &trans        &kp LS(LG(NUMBER_5))  &trans          &trans
             >;
 
-            label = "MAC-NAV";
+            label = "MACNAV";
         };
 
         default_win_layer {
