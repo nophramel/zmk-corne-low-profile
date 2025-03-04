@@ -2,10 +2,15 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
+    - name: nophramel #remove for standard nice_view shield art
+      url-base: https://github.com/nophramel #remove for standard nice_view shield art
   projects:
     - name: zmk
       remote: zmkfirmware
       revision: main
       import: app/west.yml
+    - name: nice-view-mod #remove for standard nice_view shield art
+      remote: nophramel #remove for standard nice_view shield art
+      revision: main #remove for standard nice_view shield art
   self:
     path: config
