@@ -11,6 +11,6 @@ manifest:
       import: app/west.yml
     - name: nice-view-mod #remove for standard nice_view shield art
       remote: nophramel #remove for standard nice_view shield art
-      revision: main #remove for standard nice_view shield art
+      revision: bongoCat #remove for standard nice_view shield art
   self:
     path: config
